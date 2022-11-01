@@ -12,7 +12,7 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Stalin Francis?</h1>
+        	<h1>¿Quién es Christopher Solorzano?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
@@ -24,9 +24,9 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Stalin Francis, ingeniero esmeraldeño que labora desde hace 10 años en la Universidad Tecnica Luis Vargas Torres, e impartido diferentes cátedras en la carrera de Tecnología de la Información entre las cuales esta Ingeniería de Software, Programación Web, Proyectos informáticos entre otras; pero la cátedra en la que mejor me desempeño es la de Fundamentos de programación que se dicta en el primer ciclo de la carrera de Tecnología de la Información. </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por las ciencias y la tecnología, quieza sería  por esta capacidad que tiene estas dos áres del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la ESPOL, me he dedicado a la programación de computadoras. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+                   <p class="eys-parrafo">Hola, yo soy Christopher Solorzano, estudiante de  la Universidad Tecnica Luis Vargas Torres, en la carrera de Tecnología de la Información </p>
+                   <p class="eys-parrafo">Soy bachiller en Contabilidad y decidi seguir Ingenieria en Tics porque me apasiona. </p>
+<p class="eys-parrafo"> El primer lenguaje con el cual aprendi a pregramar en la  de universidad fue el <b><a href="https://es.wikipedia.org/wiki/C%2B%2B"> basic</a></b>  es un lenguaje de programacion basico en el cual aprendi a realizar calculadoras y otros programas más.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
@@ -34,9 +34,8 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional Sagado Corazon donde me gradue en el año 1989, de la especialidad de Físico-Matemático, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios en la Escuela Superior Politécnica del Litoral donde seguí la carrera de Ingeniería en Computación, gracias a la demanda que exitía en este tiempo de este tipo de profesionales comencé a trabajar mientra estaba estudiando, prestando mis servicios profesionales en empresas como Poligráfica, El telegráfo, Intecorsorcio; mientras trabajaba en esta última logré obtener mi título de Ingeniero de Computación.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional "San Luis Gonzaga" en el Canton Muisne. Al ya ser bachiller de la Republica, deicidi postular para ingresar la UTELVT de la Ciudad de Esmeraldas.</p>
+            
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
@@ -50,7 +49,7 @@ include("marco-right.php");
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo">Soy amante a la musica y al deporte, en mis tiempos libres juego en la plataforma online.</p>
        
 
                    
